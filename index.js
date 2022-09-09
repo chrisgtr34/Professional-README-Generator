@@ -66,7 +66,7 @@ const generateQuestions = [
 // TODO: Create a function to write README file
 
 function writeToFile(fileName, data) {
-    fs.writeFile(fileName, data, (error) => {
+    fs.writeFile('./dist/' + fileName, data, (error) => {
         if (error)
         throw error;
         console.log ('Complete! Your information has been added!')

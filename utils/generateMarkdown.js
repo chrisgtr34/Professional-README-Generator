@@ -1,4 +1,8 @@
-
+function renderLicenseBadge(license) {
+  return `
+  [![](https://img.shields.io/badge/license-${license}-blue.svg)]
+  `;
+}
 // TODO: Create a function to generate markdown for README
 function generateMarkdown(data) {
   return `# ${data.title}
@@ -35,8 +39,6 @@ function generateMarkdown(data) {
 
   <br/>
 
-  # License
-  ${renderLicenseBadge(data.license)}
 
   <br/>
 
