@@ -38,7 +38,8 @@ function generateMarkdown(data) {
   ${data.test}
 
   <br/>
-
+  # License
+  ${renderLicenseBadge(data.license)}
 
   <br/>
 
@@ -48,7 +49,7 @@ function generateMarkdown(data) {
   <br/>
 
   # GitHub Username
-(https://github.com/${data.github})
+ (https://github.com/${data.github})
 
   <br/>
 
