@@ -1,44 +1,12 @@
-# asdf
+Professional-README-Generator
 
-  ## Table of Contents
-  * [Description](#description)
-  * [Installation](#installation)
-  * [Usage](#usage)
-  * [Test](#test)
-  * [License](#license)
-  * [Contribution](#contribution)
-  * [GitHub](#github)
-  * [Email](#email)
-  
+# Description
+  This challenge taught us to use the terminal in order to create a README file. Utlizing heavily on Javascript in order to situate the prompted questions and structure of the overall README file. 
 
-  # Description
-  asdf
+![alt screen shot](./Screen%20Shot%202022-09-11%20at%2012.17.02%20AM.png)
 
+[GitHub repository](https://github.com/chrisgtr34/Professional-README-Generator)
 
-  # Installation
-  
+[Deployed application](https://chrisgtr34.github.io/Professional-README-Generator/)
 
-
-  # Usage
-
-  <br/>
-
-  # Test
-  # License
-  
-  [![](https://img.shields.io/badge/license-MIT-blue.svg)](https://www.google.com/)
-  
-
-
-
-
-  # Contribution
-  asdf
-
-
-  # GitHub Username
-(https://github.com/asdf)
-
-
-  # E-mail Address
-  asdf
+[Demo Video](https://drive.google.com/file/d/19pFPgcGfLHyWOo-1RndXDKaEJfi7ZOnd/view)
